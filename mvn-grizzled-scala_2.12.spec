@@ -4,7 +4,7 @@
 #
 Name     : mvn-grizzled-scala_2.12
 Version  : 4.2.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/bmc/grizzled-scala/archive/release-4.2.0.tar.gz
 Source0  : https://github.com/bmc/grizzled-scala/archive/release-4.2.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/clapper/grizzled-scala_2.12/4.2.0/grizzled-scala_2.12-4.2.0.jar
